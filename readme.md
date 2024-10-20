@@ -11,8 +11,7 @@ Magnetic connector allows you to connect the left and right sides and charge the
 ![](doc/3.jpg)
 
 
-left
-![](doc/d3kb_trial_pcb_left.pdf)
+## schematic
+![left](doc/d3kb_trial_pcb_left.pdf)
 
-right
-![](doc/d3kb_trial_pcb_right.pdf)
+![right](doc/d3kb_trial_pcb_right.pdf)
