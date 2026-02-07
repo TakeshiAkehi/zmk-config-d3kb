@@ -18,7 +18,7 @@
 #
 ---
 include:
-  - board: seeeduino_xiao_ble
+  - board: xiao_ble
     shield: d3kb_right
-  - board: seeeduino_xiao_ble
+  - board: xiao_ble
     shield: d3kb_left
